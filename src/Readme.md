@@ -4,7 +4,7 @@ To start :
 
 Features : 
 
-1. Add properties
-2. Delete properties
+1. Add buildings
+2. Delete buildings
 3. Filter
 4. List view
