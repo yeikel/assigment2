@@ -8,3 +8,8 @@ Features :
 2. Delete buildings
 3. Filter
 4. List view
+
+
+Preview : 
+
+![](./preview.gif)
